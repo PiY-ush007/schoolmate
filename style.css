@@ -1,0 +1,46 @@
+h1{
+    color:rgb(58, 75, 27)
+}
+
+h3{
+    color:white
+}
+h3{
+    border:solid darkgreen
+}
+.header{
+    background-color:rgb(181, 230, 6) ;
+    margin-top: 1em;
+
+}
+.header{
+    display:flex;
+    justify-content: space-evenly;
+}
+.note{
+    background-color:rgb(20, 17, 17);
+}
+.home{
+    background-color: yellowgreen
+   
+}
+.home{
+    display:flex;
+    justify-content: space-evenly;
+}
+.hometxt{
+    
+    background-color: yellowgreen;
+}
+.hometxt{
+    background-color: black;
+}
+.hometxt{
+    display:flex;
+    justify-content: space-evenly;
+}
+.hometxt{
+    color: white;
+}
+
+   
