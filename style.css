@@ -21,17 +21,39 @@
 .home{
     display: flex;
     justify-content: space-evenly;
+    padding:40px;
+    position:relative;
 }
+.home:hover h3{
+    opacity:0.4;
+}
+.home a{
+opacity:0;
+
+}
+.home:hover a{
+    opacity:1;
+   
+   
+}
+a :link{
+    color:white;
+}
+a:visited{
+    color:black;
+}
+
 .hometxt{
     
     background-color: yellowgreen;
 }
 .hometxt{
     background-color: purple;
+    padding:20px;
 }
 .hometxt{
     display:flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
 }
 .hometxt{
     color: white;
